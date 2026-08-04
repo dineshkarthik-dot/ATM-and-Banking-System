@@ -48,7 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-<img width="1045" height="766" alt="image" src="https://github.com/user-attachments/assets/9a1152a1-a016-4e02-a222-5207444e9fed" />
+<img width="723" height="701" alt="image" src="https://github.com/user-attachments/assets/476dce35-377d-4652-ae43-e51726acaa32" />
 
 
 
@@ -109,7 +109,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
-<img width="1012" height="807" alt="image" src="https://github.com/user-attachments/assets/deb259d5-9de1-4e1a-aecc-416cd8e01a3b" />
+<img width="937" height="917" alt="image" src="https://github.com/user-attachments/assets/dc32d174-ac77-46b7-a3a6-f79715a724c0" />
 
 
 
